@@ -1,0 +1,91 @@
+{
+  "contact_information": {
+    "name": "VECHALAPU KANAKA DURGA PRASAD",
+    "location": "VISAKAPATNAM, ANDHRA PRADESH",
+    "phone": "8639109432",
+    "email": "kanakadurgaprasad67@gmail.com",
+    "linkedin": "linkedin.com",
+    "github": "github.com",
+    "twitter": "@vd0810"
+  },
+  "education": [
+    {
+      "degree": "BTECH",
+      "institution": "SRM INSTITUTE OF SCIENCE AND TECHNOLOGY",
+      "year": "2021–2025",
+      "details": "computer science and engineering - CGA - 8.34(currently)",
+      "location": "chennai, india"
+    },
+    {
+      "degree": "12TH",
+      "institution": "PANDIT JUNIOR COLLEGE",
+      "year": "2019 – 2021",
+      "details": "mpc - Percentage - 78.3%",
+      "location": "visakapatnam, india"
+    },
+    {
+      "degree": "SSC",
+      "institution": "SRI CHAITANYA EM SCHOOL",
+      "year": "2018 – 2019",
+      "details": "Exam Name - SSC GPA - 10/10",
+      "location": "visakapatnam, india"
+    }
+  ],
+  "coursework": [
+    "c",
+    "c++",
+    "Data Structures & Algorithms",
+    "Operating Systems",
+    "computer Networks",
+    "Database Management System (DBMS)"
+  ],
+  "projects": [
+    {
+      "title": "Cricket Score Card",
+      "technology": "c language",
+      "year": "2022",
+      "details": [
+        "Develop a program that allows users to input real-time data during a cricket match, such as runs scored, wickets taken, overs bowled, and other relevant statistics.",
+        "Implement a feature that analyzes the historical data of cricket matches stored in a file or database. The program should be able to calculate and display various statistics, such as batting averages, bowling averages, strike rates, and other performance metrics for individual players and teams."
+      ]
+    },
+    {
+      "title": "Restaurant Management System",
+      "technology": "python gui",
+      "year": "2023",
+      "details": [
+        "Develop a graphical interface that allows restaurant staff to efficiently manage orders from customers. This includes features such as adding new orders, modifying existing ones, marking orders as completed, and tracking order status in real-time.",
+        "Implement a module within the restaurant management system to track inventory levels and automatically update them as orders are placed and fulfilled. The GUI should provide a user-friendly interface for staff to view current inventory levels, receive alerts for low-stock items, and place orders for restocking."
+      ]
+    },
+    {
+      "title": "ATM Interface",
+      "technology": "java",
+      "year": "2023",
+      "details": [
+        "Create an intuitive and user-friendly graphical interface for the ATM system. Design the interface to resemble a real ATM machine, with options for withdrawing cash, depositing funds, checking balance, transferring money, and other common banking operations.",
+        "Implement robust transaction handling mechanisms to ensure the security and reliability of the ATM system. Include features such as authentication (e.g., PIN verification), transaction logging, error handling, and encryption to protect sensitive user data and financial transactions."
+      ]
+    },
+    {
+      "title": "Number Guessing Game",
+      "technology": "java",
+      "year": "2023",
+      "details": [
+        "Create a user-friendly interface that guides players through the game, providing clear instructions and feedback at each step. Utilize graphical components such as buttons, text fields, and labels to enhance the user experience.",
+        "Implement a feature that allows players to customize various aspects of the game, such as the range of numbers to guess from, the number of attempts allowed, and the difficulty level."
+      ]
+    }
+  ],
+  "technical_skills": {
+    "languages": ["Python", "Java", "C", "C++", "html", "JavaScript(basic)", "SQL(basic)"],
+    "tools": ["VS Code", "eclipse", "hackerrank", "codechef"]
+  },
+  "certifications": [
+    "python - coursera",
+    "Java - nptel",
+    "networking basics - cisco",
+    "linux tutorial basic - great learning",
+    "problem solving basic - hackerrank"
+  ]
+}
